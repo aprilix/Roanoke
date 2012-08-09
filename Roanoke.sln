@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roanoke", "Roanoke\Roanoke.csproj", "{73370804-2B1A-4B92-9C84-5D195C18987D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roanoke.Tests", "Roanoke.Tests\Roanoke.Tests.csproj", "{56AA8679-4B44-47E7-8C31-BF64B702525B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AA8679-4B44-47E7-8C31-BF64B702525B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AA8679-4B44-47E7-8C31-BF64B702525B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AA8679-4B44-47E7-8C31-BF64B702525B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AA8679-4B44-47E7-8C31-BF64B702525B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73370804-2B1A-4B92-9C84-5D195C18987D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73370804-2B1A-4B92-9C84-5D195C18987D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73370804-2B1A-4B92-9C84-5D195C18987D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73370804-2B1A-4B92-9C84-5D195C18987D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
